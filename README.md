@@ -3,3 +3,23 @@
 # QuingKhaos' Transport Group
 
 Adds a new Transport group to the crafting menu. Drop-in replacement for Schall Transport Group for 2.1, supports 2.0 too.
+
+It supports the same subgroups as Schall Transport Group:
+
+- `transport` - The vanilla subgroup
+- `train-transport` - Another vanilla subgroup
+- `vehicles-railway` - All rail vehicles
+- `vehicles-railway-electric` - All electric rail vehicles
+- `vehicles-civilian` - Non-combat vehicles
+- `vehicles-military` - Combat vehicles
+- `vehicle-equipment` - Most vehicle-only equipment. But excluding military and defense equipment.
+- `vehicle-equipment-military` - Vehicle-only military equipment. But excluding defense equipment.
+- `vehicle-equipment-defense` - Vehicle-only defense equipment.
+
+## For modders
+
+You just need to add `khaostransportgroup` as optional dependency without any other changes. All your conditional checks for Schall Transport Group will work with this mod too.
+
+## Legal Notice
+
+This is not a fork of Schall Transport Group, but a clean and newly written drop-in replacement.
