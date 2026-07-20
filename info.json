@@ -1,7 +1,7 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESC###",
+  "name": "khaostransportgroup",
+  "title": "QuingKhaos' Transport Group",
+  "description": "Adds a new Transport group to the crafting menu. Drop-in replacement for Schall Transport Group for 2.1, supports 2.0 too.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
   "version": "1.0.0",
@@ -9,8 +9,7 @@
   "dependencies": [
     "base >= 2.0.77",
 
-    "khaosbash",
-    "khaoslib"
+    "khaoslib >= 1.17.2"
   ],
   "package": {
     "ignore": [

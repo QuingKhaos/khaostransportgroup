@@ -1,8 +1,10 @@
 mod_info:
-  title: "###TITLE###"
-  summary: "###DESC###"
+  title: "QuingKhaos' Transport Group"
+  summary: "Adds a new Transport group to the crafting menu. Drop-in replacement for Schall Transport Group for 2.1, supports 2.0 too."
   description_file: README.md
   attach_source_link: true
-  license: gnugplv3
-  category: internal
-  tags: []
+  license: default_gnulgplv3
+  category: utilities
+  tags:
+    - transportation
+    - trains
