@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 2.1.0
-Date: ????
+Date: 2026-07-22
   Changes:
     - Set subgroup for recycling recipes too.
   Compatibility:
@@ -12,7 +12,7 @@ Date: 2026-07-20
     - Updated for Factorio 2.1.
 ---------------------------------------------------------------------------------------------------
 Version: 1.1.0
-Date: ????
+Date: 2026-07-22
   Changes:
     - Set subgroup for recycling recipes too.
   Compatibility:
