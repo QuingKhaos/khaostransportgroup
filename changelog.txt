@@ -5,6 +5,7 @@ Date: ????
     - Set subgroup for recycling recipes too.
   Compatibility:
     - Add support for AAI Vehicles: Ironclad.
+    - Add support for Diesel Locomotive Continued.
     - Add support for Realistic Electric Trains Continued.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
