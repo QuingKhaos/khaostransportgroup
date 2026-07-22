@@ -10,9 +10,10 @@
     "base >= 2.1.11",
     "(?) recycler >= 2.1.11",
 
-    "khaoslib >= 2.0.0",
+    "khaoslib >= 1.17.2",
 
     "? aai-vehicles-ironclad >= 0.8.0",
+    "? Realistic_Electric_Trains_Continued_2SE >= 0.6.1",
 
     "! SchallTransportGroup"
   ],
