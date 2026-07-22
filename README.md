@@ -10,11 +10,20 @@ It supports the same subgroups as Schall Transport Group:
 - `train-transport` - Another vanilla subgroup
 - `vehicles-railway` - All rail vehicles
 - `vehicles-railway-electric` - All electric rail vehicles
+- `vehicles-waterway` - (NEW!) All water vehicles
 - `vehicles-civilian` - Non-combat vehicles
 - `vehicles-military` - Combat vehicles
 - `vehicle-equipment` - Most vehicle-only equipment. But excluding military and defense equipment.
 - `vehicle-equipment-military` - Vehicle-only military equipment. But excluding defense equipment.
 - `vehicle-equipment-defense` - Vehicle-only defense equipment.
+
+## Compatible mods
+
+For the following mods, the vehicles and equipment are sorted into the new subgroups:
+
+- [AAI Vehicles: Ironclad](https://mods.factorio.com/mod/aai-vehicles-ironclad)
+
+If you want to see another mod made compatible, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
 
 ## For modders
 

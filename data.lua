@@ -15,6 +15,7 @@ khaoslib_item_subgroup:load("transport"):set {group = "transport", order = "aa[t
 khaoslib_item_subgroup:load("train-transport"):set {group = "transport", order = "ab[train-transport]"} :commit()
 khaoslib_item_subgroup:load {type = "item-subgroup", name = "vehicles-railway", group = "transport", order = "b[vehicles-railway]"} :commit()
 khaoslib_item_subgroup:load {type = "item-subgroup", name = "vehicles-railway-electric", group = "transport", order = "ba[vehicles-railway-electric]"} :commit()
+khaoslib_item_subgroup:load {type = "item-subgroup", name = "vehicles-waterway", group = "transport", order = "bb[vehicles-waterway]"} :commit()
 khaoslib_item_subgroup:load {type = "item-subgroup", name = "vehicles-civilian", group = "transport", order = "c[vehicles-civilian]"} :commit()
 khaoslib_item_subgroup:load {type = "item-subgroup", name = "vehicles-military", group = "transport", order = "d[vehicles-military]"} :commit()
 khaoslib_item_subgroup:load {type = "item-subgroup", name = "vehicle-equipment", group = "transport", order = "f[vehicle-equipment]"} :commit()
