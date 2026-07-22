@@ -12,6 +12,8 @@
 
     "khaoslib >= 2.0.0",
 
+    "? aai-vehicles-ironclad >= 0.8.0",
+
     "! SchallTransportGroup"
   ],
   "package": {
