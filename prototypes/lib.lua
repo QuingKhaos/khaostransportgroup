@@ -13,6 +13,10 @@ function lib.update_subgroup(entity_type, item_type, name, subgroup)
   khaoslib_entity:load(entity_type, name):set {subgroup = subgroup} :commit()
   khaoslib_item:load(item_type, name):set {subgroup = subgroup} :commit()
   khaoslib_recipe:load(name):set {subgroup = subgroup} :commit()
+
+  if mods["recycler"] then
+    khaoslib_recipe:load(name .. "-recycling"):set {subgroup = subgroup} :commit()
+  end
 end
 
 return lib
