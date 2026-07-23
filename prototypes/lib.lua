@@ -8,6 +8,17 @@ local lib = {}
 --- @param entity_type string
 --- @param item_type khaoslib_item.Types
 --- @param name string
+--- @param order data.Order
+function lib.update_order(entity_type, item_type, name, order)
+  khaoslib_entity:load(entity_type, name):set {order = order} :commit()
+  khaoslib_item:load(item_type, name):set {order = order} :commit()
+  khaoslib_recipe:load(name):set {order = order} :commit()
+end
+
+
+--- @param entity_type string
+--- @param item_type khaoslib_item.Types
+--- @param name string
 --- @param subgroup data.ItemSubGroupID
 function lib.update_subgroup(entity_type, item_type, name, subgroup)
   khaoslib_entity:load(entity_type, name):set {subgroup = subgroup} :commit()
@@ -29,6 +40,12 @@ function lib.update_item_recipe_subgroup(item_type, name, subgroup)
   if mods["quality"] then
     khaoslib_recipe:load(name .. "-recycling"):set {subgroup = subgroup} :commit()
   end
+end
+
+--- @param name data.RecipeID
+--- @param subgroup data.ItemSubGroupID
+function lib.update_recipe_subgroup(name, subgroup)
+  khaoslib_recipe:load(name):set {subgroup = subgroup} :commit()
 end
 
 return lib
