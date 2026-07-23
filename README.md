@@ -30,6 +30,20 @@ For the following mods, the vehicles and equipment are sorted into the new subgr
 
 If you want to see another mod made compatible, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
 
+## More, more, more
+
+You may also like these sorting companion mods:
+
+- [QuingKhaos' Ammo Group](https://mods.factorio.com/mod/khaosammogroup)
+- [Barrel Stages](https://mods.factorio.com/mod/barrel-stages)
+- [Barreling Group](https://mods.factorio.com/mod/barreling-group2)
+- [QuingKhaos' Bioprocessing Group](https://mods.factorio.com/mod/khaosbioprocessinggroup)
+- [QuingKhaos' Casting Group](https://mods.factorio.com/mod/khaoscastinggroup)
+- [Chemistry Group](https://mods.factorio.com/mod/chemistry-tab)
+- [QuingKhaos' Circuitry Group](https://mods.factorio.com/mod/khaoscircuitrygroup)
+- [QuingKhaos' Modules Group](https://mods.factorio.com/mod/khaosmodulesgroup)
+- [Science Group](https://mods.factorio.com/mod/science-tab)
+
 ## For modders
 
 You just need to add `khaostransportgroup` as optional dependency without any other changes. All your conditional checks for Schall Transport Group will work with this mod too.
