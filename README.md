@@ -32,6 +32,20 @@ If you want to see another mod made compatible, please open a discussion thread 
 
 ᵃ: As of 2026-07-22 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
 
+## More, more, more
+
+You may also like these sorting companion mods:
+
+- [QuingKhaos' Ammo Group](https://mods.factorio.com/mod/khaosammogroup)
+- [Barrel Stages](https://mods.factorio.com/mod/barrel-stages)
+- [Barreling Group](https://mods.factorio.com/mod/barreling-group2)
+- [QuingKhaos' Bioprocessing Group](https://mods.factorio.com/mod/khaosbioprocessinggroup)
+- [QuingKhaos' Casting Group](https://mods.factorio.com/mod/khaoscastinggroup)
+- [Chemistry Group](https://mods.factorio.com/mod/chemistry-tab)
+- [QuingKhaos' Circuitry Group](https://mods.factorio.com/mod/khaoscircuitrygroup)
+- [QuingKhaos' Modules Group](https://mods.factorio.com/mod/khaosmodulesgroup)
+- [Science Group](https://mods.factorio.com/mod/science-tab)
+
 ## For modders
 
 You just need to add `khaostransportgroup` as optional dependency without any other changes. All your conditional checks for Schall Transport Group will work with this mod too.
