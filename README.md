@@ -23,6 +23,7 @@ For the following mods, the vehicles and equipment are sorted into the new subgr
 
 - [AAI Vehicles: Ironclad](https://mods.factorio.com/mod/aai-vehicles-ironclad)
 - [Diesel Locomotive Continued](https://mods.factorio.com/mod/Diesel_Locomotive_Continued)ᵃ
+- [Electric Train Fix](https://mods.factorio.com/mod/ElectricTrainFix)
 - [Realistic Electric Trains Continued](https://mods.factorio.com/mod/Realistic_Electric_Trains_Continued_2SE)ᵃ
 - [Rubia](https://mods.factorio.com/mod/rubia)
 
