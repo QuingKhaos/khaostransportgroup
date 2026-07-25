@@ -4,7 +4,7 @@
   "description": "Adds a new Transport group to the crafting menu. Drop-in replacement for Schall Transport Group for 2.1, supports 2.0 too.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "factorio_version": "2.0",
   "dependencies": [
     "base >= 2.0.77",
@@ -13,8 +13,11 @@
     "khaoslib >= 1.17.2",
 
     "? aai-vehicles-ironclad >= 0.7.5",
+    "? Battleship >= 0.4.0",
+    "? cargo-ships >= 1.0.33",
     "? Diesel_Locomotive_Continued >= 0.1.2",
     "? ElectricTrainFix >= 1.2.0",
+    "? fishing-trawler >= 0.1.32",
     "? pyalienlife >= 3.0.67",
     "? pyindustry >= 3.0.21",
     "? Realistic_Electric_Trains_Continued_2SE >= 0.6.1",

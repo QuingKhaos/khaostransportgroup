@@ -22,6 +22,9 @@ It supports the same subgroups as Schall Transport Group:
 For the following mods, the vehicles and equipment are sorted into the new subgroups:
 
 - [AAI Vehicles: Ironclad](https://mods.factorio.com/mod/aai-vehicles-ironclad)
+- [Cargo Ships](https://mods.factorio.com/mod/cargo_ships)
+- [Cargo Ships: Battleship](https://mods.factorio.com/mod/Battleship)
+- [Cargo Ships: Fishing Trawler](https://mods.factorio.com/mod/fishing-trawler)
 - [Diesel Locomotive Continued](https://mods.factorio.com/mod/Diesel_Locomotive_Continued)
 - [Electric Train Fix](https://mods.factorio.com/mod/ElectricTrainFix)
 - [Pyanodons](https://mods.factorio.com/user/pyanodon)
