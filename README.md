@@ -22,6 +22,9 @@ It supports the same subgroups as Schall Transport Group:
 For the following mods, the vehicles and equipment are sorted into the new subgroups:
 
 - [AAI Vehicles: Ironclad](https://mods.factorio.com/mod/aai-vehicles-ironclad)
+- [Cargo Ships](https://mods.factorio.com/mod/cargo_ships)
+- [Cargo Ships: Battleship](https://mods.factorio.com/mod/Battleship)ᵃ
+- [Cargo Ships: Fishing Trawler](https://mods.factorio.com/mod/fishing-trawler)ᵃ
 - [Diesel Locomotive Continued](https://mods.factorio.com/mod/Diesel_Locomotive_Continued)ᵃ
 - [Electric Train Fix](https://mods.factorio.com/mod/ElectricTrainFix)
 - [Pyanodons](https://mods.factorio.com/user/pyanodon)
@@ -30,7 +33,7 @@ For the following mods, the vehicles and equipment are sorted into the new subgr
 
 If you want to see another mod made compatible, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
 
-ᵃ: As of 2026-07-22 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
+ᵃ: As of 2026-07-25 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
 
 ## More, more, more
 

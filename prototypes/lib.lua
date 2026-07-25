@@ -21,12 +21,22 @@ end
 --- @param name string
 --- @param subgroup data.ItemSubGroupID
 function lib.update_subgroup(entity_type, item_type, name, subgroup)
-  khaoslib_entity:load(entity_type, name):set {subgroup = subgroup} :commit()
-  khaoslib_item:load(item_type, name):set {subgroup = subgroup} :commit()
-  khaoslib_recipe:load(name):set {subgroup = subgroup} :commit()
+  if khaoslib_entity.exists(entity_type, name) then
+    khaoslib_entity:load(entity_type, name):set {subgroup = subgroup} :commit()
+  end
+
+  if khaoslib_item.exists(item_type, name) then
+    khaoslib_item:load(item_type, name):set {subgroup = subgroup} :commit()
+  end
+
+  if khaoslib_recipe.exists(name) then
+    khaoslib_recipe:load(name):set {subgroup = subgroup} :commit()
+  end
 
   if mods["recycler"] then
-    khaoslib_recipe:load(name .. "-recycling"):set {subgroup = subgroup} :commit()
+    if khaoslib_recipe.exists(name .. "-recycling") then
+      khaoslib_recipe:load(name .. "-recycling"):set {subgroup = subgroup} :commit()
+    end
   end
 end
 

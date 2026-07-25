@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 2.3.0
+Date: ????
+  Compatibility:
+    - Add support for Cargo Ships.
+---------------------------------------------------------------------------------------------------
 Version: 2.2.0
 Date: 2026-07-23
   Compatibility:
@@ -22,6 +27,13 @@ Version: 2.0.0
 Date: 2026-07-20
   Compatibility:
     - Updated for Factorio 2.1.
+---------------------------------------------------------------------------------------------------
+Version: 1.3.0
+Date: ????
+  Compatibility:
+    - Add support for Cargo Ships.
+    - Add support for Cargo Ships: Battleship.
+    - Add support for Cargo Ships: Fishing Trawler.
 ---------------------------------------------------------------------------------------------------
 Version: 1.2.0
 Date: 2026-07-23

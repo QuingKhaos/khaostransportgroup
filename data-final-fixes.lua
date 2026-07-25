@@ -1,4 +1,5 @@
 require("__khaostransportgroup__.prototypes.compat.aai-vehicles-ironclad-final-fixes")
+require("__khaostransportgroup__.prototypes.compat.cargo-ships-final-fixes")
 require("__khaostransportgroup__.prototypes.compat.diesel-locomotive-final-fixes")
 require("__khaostransportgroup__.prototypes.compat.electric-train-final-fixes")
 require("__khaostransportgroup__.prototypes.compat.pyanodons-final-fixes")
