@@ -36,11 +36,12 @@ If you want to see another mod made compatible, please open a discussion thread 
 
 You may also like these sorting companion mods:
 
+- [Assembler Group](https://mods.factorio.com/mod/assembler-group)
 - [QuingKhaos' Ammo Group](https://mods.factorio.com/mod/khaosammogroup)
 - [Barrel Stages](https://mods.factorio.com/mod/barrel-stages)
 - [Barreling Group](https://mods.factorio.com/mod/barreling-group2)
 - [QuingKhaos' Bioprocessing Group](https://mods.factorio.com/mod/khaosbioprocessinggroup)
-- [QuingKhaos' Casting Group](https://mods.factorio.com/mod/khaoscastinggroup)
+- [[WIP] QuingKhaos' Casting Group](https://mods.factorio.com/mod/khaoscastinggroup)
 - [Chemistry Group](https://mods.factorio.com/mod/chemistry-tab)
 - [QuingKhaos' Circuitry Group](https://mods.factorio.com/mod/khaoscircuitrygroup)
 - [QuingKhaos' Modules Group](https://mods.factorio.com/mod/khaosmodulesgroup)
